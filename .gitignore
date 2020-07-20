@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# MacOS Stuff
+.gitignore
+.DS_Store
